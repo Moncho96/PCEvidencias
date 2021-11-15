@@ -1,3 +1,0 @@
-Tu sistema operativo es: Linux
-Node with IP: 192.168.100.1 is up.
-22 open
